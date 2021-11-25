@@ -1,7 +1,16 @@
 # Oluwatimileyin Soyege
-# Mrs Sukovieff
+# Mrs Cotcher
 # Computer Science 30
-# 16 October 2021
+# September 22 2021- Started Menu
+# September 29 2021- Finished Menu
+# October 6 2021- Started on Inventory
+# October 13 2021- Finished Inventory
+# October 14 2021- Started on Module and Map
+# November 9 2021- Finished Module and Maps
+# November 10 2021- Started Exception
+# November 12 2021- Finished Exception
+# November 16 2021- Started RPG Classes
+# November 24 2021- Finished RPG Classes
 
 
 
